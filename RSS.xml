@@ -1,7 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
     <channel>
-        <title>Podcast Title Here</title>
-        <link>https://www.example.com</link>
+        <title>Private Feed</title>
+        <link>https://jwd-999.github.io</link>
         <image>
             <url>http://www.example.com/image3000x3000.png</url>
             <title>Podcast Title Here</title>
@@ -12,6 +12,9 @@
         </description>
         <language>en-us</language>
         <copyright>None</copyright>
+        <itunes:image href="http://www.example.com/image3000x3000.png"/>
+         <rawvoice:rating>TV-G</rawvoice:rating>
+        <itunes:category text="Whatever"/>
         <item>
           <title>INDUSTRIAL SOCIETY AND ITS FUTURE</title>
           <link>https://dl.dropboxusercontent.com/scl/fi/9p43p4lgnvrww0a4d5zwy/Industrial-Society-and-its-Future.mp3?rlkey=9c35uwlbonvwv1cql91qgsy5l&amp;dl=0</link>
