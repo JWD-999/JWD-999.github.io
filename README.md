@@ -1,2 +1,2 @@
 # JWD-999.github.io
-what happens when i type
+This is just being used to manage a private rss feed
