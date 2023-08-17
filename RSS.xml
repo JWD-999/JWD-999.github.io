@@ -8,7 +8,7 @@
             <link>https://jwd-999.github.io/Manoel.jpg</link>
         </image>
         <description>
-            The full length description for your podcast
+            Private Podcast Feed
         </description>
         <language>en-us</language>
         <copyright>None</copyright>
@@ -16,9 +16,9 @@
          <rawvoice:rating>TV-G</rawvoice:rating>
         <itunes:category text="Education"/>
         <item>
-          <title>INDUSTRIAL SOCIETY AND ITS FUTURE</title>
-          <pubDate>Sat, 02 Jan 2020 16:00:00 PDT</pubDate>
-          <description>The full length episode 2 description</description>
+          <title>Industrial Society and Its Future</title>
+          <pubDate>Thru, 17 Aug 2023 16:00:00 PDT</pubDate>
+          <description>Industrial Society and Its Future, also known as the Unabomber Manifesto, is a 1995 anti-technology essay by Ted Kaczynski, the "Unabomber". The manifesto contends that the Industrial Revolution began a harmful process of natural destruction brought about by technology, while forcing humans to adapt to machinery, creating a sociopolitical order that suppresses human freedom and potential. The 35,000-word manifesto formed the ideological foundation of Kaczynski's 1978–1995 mail bomb campaign, designed to protect wilderness by hastening the collapse of industrial society.</description>
           <enclosure url="https://www.dropbox.com/scl/fi/9p43p4lgnvrww0a4d5zwy/Industrial-Society-and-its-Future.mp3?dl=1&amp;rlkey=9c35uwlbonvwv1cql91qgsy5l" length="34216300" type="audio/mpeg"/>
           <guid isPermaLink="false">pod01</guid>
         </item>
