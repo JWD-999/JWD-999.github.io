@@ -22,5 +22,26 @@
           <enclosure url="https://www.dropbox.com/scl/fi/9p43p4lgnvrww0a4d5zwy/Industrial-Society-and-its-Future.mp3?dl=1&amp;rlkey=9c35uwlbonvwv1cql91qgsy5l" length="34216300" type="audio/mpeg"/>
           <guid isPermaLink="false">pod01</guid>
         </item>
+        <item>
+          <title>Metamorphosis 1</title>
+          <pubDate>Thru, 19 Oct 2023 16:00:00 PDT</pubDate>
+          <description>Metamorphosis by Franz Kafka Part 1</description>
+          <enclosure url="https://ia800202.us.archive.org/17/items/metamorphosis_1401_librivox/metamorphosis_1_kafka.mp3"/>
+          <guid isPermaLink="false">pod01</guid>
+        </item>
+        <item>
+          <title>Metamorphosis 2</title>
+          <pubDate>Thru, 19 Oct 2023 16:00:00 PDT</pubDate>
+          <description>Metamorphosis by Franz Kafka Part 2</description>
+          <enclosure url="https://ia800202.us.archive.org/17/items/metamorphosis_1401_librivox/metamorphosis_2_kafka.mp3"/>
+          <guid isPermaLink="false">pod01</guid>
+        </item>
+        <item>
+          <title>Metamorphosis 3</title>
+          <pubDate>Thru, 19 Oct 2023 16:00:00 PDT</pubDate>
+          <description>Metamorphosis by Franz Kafka Part 3</description>
+          <enclosure url="https://ia600202.us.archive.org/17/items/metamorphosis_1401_librivox/metamorphosis_3_kafka.mp3"/>
+          <guid isPermaLink="false">pod01</guid>
+        </item>
     </channel>
 </rss>
