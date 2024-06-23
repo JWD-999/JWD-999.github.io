@@ -23,32 +23,18 @@
           <guid isPermaLink="false">pod01</guid>
         </item>
         <item>
-          <title>Metamorphosis 1</title>
-          <pubDate>Thru, 19 Oct 2023 16:00:00 PDT</pubDate>
-          <description>Metamorphosis by Franz Kafka Part 1</description>
-          <enclosure url="https://ia800202.us.archive.org/17/items/metamorphosis_1401_librivox/metamorphosis_1_kafka.mp3"/>
-          <guid isPermaLink="false">pod01</guid>
-        </item>
-        <item>
-          <title>Metamorphosis 2</title>
-          <pubDate>Thru, 19 Oct 2023 16:00:00 PDT</pubDate>
-          <description>Metamorphosis by Franz Kafka Part 2</description>
-          <enclosure url="https://ia800202.us.archive.org/17/items/metamorphosis_1401_librivox/metamorphosis_2_kafka.mp3"/>
-          <guid isPermaLink="false">pod01</guid>
-        </item>
-        <item>
-          <title>Metamorphosis 3</title>
-          <pubDate>Thru, 19 Oct 2023 16:00:00 PDT</pubDate>
-          <description>Metamorphosis by Franz Kafka Part 3</description>
-          <enclosure url="https://ia600202.us.archive.org/17/items/metamorphosis_1401_librivox/metamorphosis_3_kafka.mp3"/>
-          <guid isPermaLink="false">pod01</guid>
-        </item>
-        <item>
           <title>Anthem</title>
           <pubDate>Sun, 19 May 2024 16:00:00 PDT</pubDate>
           <description>Anthem by Ayn Rand</description>
           <enclosure url="https://archive.org/download/Anthem_489/Anthem.m4b"/>
-          <guid isPermaLink="false">pod01</guid>
+          <guid isPermaLink="false">pod02</guid>
+        </item>
+        <item>
+          <title>Slaughterhouse-Five</title>
+          <pubDate>Sun, 23 June 2024 16:00:00 EST</pubDate>
+          <description>Slaughterhouse-Five by Kurt Vonnegut</description>
+          <enclosure url="https://drive.google.com/file/d/1uMGXK9kqT2SVLtt3FfFKnE-G24Onx0bJ/view?usp=sharing"/>
+          <guid isPermaLink="false">pod03</guid>
         </item>
     </channel>
 </rss>
