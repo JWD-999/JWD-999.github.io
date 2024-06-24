@@ -14,4 +14,3 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 name: ""
 title: null
-layout: default
